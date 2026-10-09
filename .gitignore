@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+!.env.template
+__pycache__/
+*.pyc
+*.log
+private/
+backups/
+persist/
